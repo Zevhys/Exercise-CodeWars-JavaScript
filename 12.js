@@ -1,5 +1,7 @@
 // (8 kyu) Abbreviate a Two Word Name
 
+// https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
+
 // Description:
 
 // Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.

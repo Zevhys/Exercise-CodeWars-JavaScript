@@ -1,5 +1,7 @@
 // (7 kyu) Check the exam
 
+// https://www.codewars.com/kata/5a3dd29055519e23ec000074
+
 // Description:
 
 // The first input array is the key to the correct answers to an exam, like ["a", "a", "b", "d"]. The second one contains a student's submitted answers.

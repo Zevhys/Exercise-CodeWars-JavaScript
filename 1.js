@@ -1,5 +1,7 @@
 // (8kyu) Check same case
 
+// https://www.codewars.com/kata/5dd462a573ee6d0014ce715b
+
 // Write a function that will check if two given characters are the same case.
 
 // 1. If either of the characters is not a letter, return -1
